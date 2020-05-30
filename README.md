@@ -7,6 +7,6 @@ ESP32Cam w/ HTTP stream and Telegram
 
 
 ## References
-  - [Arduino Telegram Bot Library](https://github.com/LilyGO/TTGO-TAudio) Telegrambot code at Github
-  - [ESP32Cam](https://github.com/kosme/arduinoFFT) Espressif ESP32Cam code
-  - [Robotzero telegram tutor](https://github.com/adafruit/Adafruit_NeoPixel) Tutor.
+  - [Arduino Telegram Bot Library](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) Telegrambot code at Github.
+  - [ESP32Cam](https://github.com/espressif/esp32-camera) Espressif ESP32Cam code.
+  - [Robot01 telegram tutor](https://robotzero.one/telegram-bot-esp32cam/) Running a Telegram Photo Bot on the ESP32-CAM.
