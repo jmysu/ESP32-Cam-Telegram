@@ -2,7 +2,7 @@
 ESP32Cam w/ HTTP stream and Telegram
 <br><br>
 
-<img src="pictures/ESP32CamTelegram0530.png" width=250/> &nbsp;&nbsp;&nbsp; <img src="pictures/ESP32camTelegram.png" width=250/>
+<img src="pictures/ESP32CamTelegram0530.png" width=250/> &nbsp;&nbsp;&nbsp; <img src="pictures/ESP32camTelegram.png" width=320/>
 <br><br>
 
 
